@@ -1,0 +1,9 @@
+local STRINGS = GLOBAL.STRINGS
+GLOBAL.setfenv(1, GLOBAL)
+
+-- 名字
+STRINGS.NAMES.DREADSWORD = "Dread Sword"
+-- 制作栏的介绍
+STRINGS.RECIPE_DESC.DREADSWORD = "Bring the deepest despair to your enemies."
+-- 人物检查
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DREADSWORD = ""
