@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Atlas>
+	<Texture filename="ca_inventory_images.tex" />
+	<Elements>
+		<Element name="ca_black_carrot.tex" u1="0.001" u2="0.124" v2="0.999" v1="0.876" variant="" />
+		<Element name="ca_black_carrot_cooked.tex" u1="0.126" u2="0.249" v2="0.999" v1="0.876" variant="" />
+		<Element name="ca_black_carrot_seeds.tex" u1="0.001" u2="0.124" v2="0.874" v1="0.751" variant="" />
+		<Element name="ca_bread.tex" u1="0.126" u2="0.249" v2="0.874" v1="0.751" variant="" />
+		<Element name="ca_fish_pie.tex" u1="0.251" u2="0.374" v2="0.999" v1="0.876" variant="" />
+		<Element name="ca_fruit_muffin.tex" u1="0.376" u2="0.499" v2="0.999" v1="0.876" variant="" />
+		<Element name="ca_fruit_pie.tex" u1="0.251" u2="0.374" v2="0.874" v1="0.751" variant="" />
+		<Element name="ca_garlic.tex" u1="0.376" u2="0.499" v2="0.874" v1="0.751" variant="" />
+		<Element name="ca_garlic_cooked.tex" u1="0.001" u2="0.124" v2="0.749" v1="0.626" variant="" />
+		<Element name="ca_garlic_seeds.tex" u1="0.126" u2="0.249" v2="0.749" v1="0.626" variant="" />
+		<Element name="ca_garlic_soup.tex" u1="0.251" u2="0.374" v2="0.749" v1="0.626" variant="" />
+		<Element name="farm_hoe.tex" u1="0.376" u2="0.499" v2="0.749" v1="0.626" variant="" />
+		<Element name="farm_lux_hoe.tex" u1="0.001" u2="0.124" v2="0.624" v1="0.501" variant="" />
+		<Element name="ca_meat_pie.tex" u1="0.126" u2="0.249" v2="0.624" v1="0.501" variant="" />
+		<Element name="ca_onion.tex" u1="0.251" u2="0.374" v2="0.624" v1="0.501" variant="" />
+		<Element name="ca_onion_cooked.tex" u1="0.376" u2="0.499" v2="0.624" v1="0.501" variant="" />
+		<Element name="ca_onion_seeds.tex" u1="0.501" u2="0.624" v2="0.999" v1="0.876" variant="" />
+		<Element name="ca_onion_soup.tex" u1="0.626" u2="0.749" v2="0.999" v1="0.876" variant="" />
+		<Element name="ca_potato.tex" u1="0.751" u2="0.874" v2="0.999" v1="0.876" variant="" />
+		<Element name="ca_potato_cooked.tex" u1="0.876" u2="0.999" v2="0.999" v1="0.876" variant="" />
+		<Element name="ca_potato_seeds.tex" u1="0.501" u2="0.624" v2="0.874" v1="0.751" variant="" />
+		<Element name="ca_potato_soup.tex" u1="0.626" u2="0.749" v2="0.874" v1="0.751" variant="" />
+		<Element name="ca_pumpkin_soup.tex" u1="0.751" u2="0.874" v2="0.874" v1="0.751" variant="" />
+		<Element name="ca_sweet_turnip.tex" u1="0.876" u2="0.999" v2="0.874" v1="0.751" variant="" />
+		<Element name="ca_tomato.tex" u1="0.501" u2="0.624" v2="0.749" v1="0.626" variant="" />
+		<Element name="ca_tomato_cooked.tex" u1="0.626" u2="0.749" v2="0.749" v1="0.626" variant="" />
+		<Element name="ca_tomato_seeds.tex" u1="0.751" u2="0.874" v2="0.749" v1="0.626" variant="" />
+		<Element name="ca_tomato_soup.tex" u1="0.876" u2="0.999" v2="0.749" v1="0.626" variant="" />
+		<Element name="ca_turf_quagmire_soil.tex" u1="0.501" u2="0.624" v2="0.624" v1="0.501" variant="" />
+		<Element name="ca_turnip.tex" u1="0.626" u2="0.749" v2="0.624" v1="0.501" variant="" />
+		<Element name="ca_turnip_cooked.tex" u1="0.751" u2="0.874" v2="0.624" v1="0.501" variant="" />
+		<Element name="ca_turnip_seeds.tex" u1="0.876" u2="0.999" v2="0.624" v1="0.501" variant="" />
+		<Element name="ca_veggie_pie.tex" u1="0.001" u2="0.124" v2="0.499" v1="0.376" variant="" />
+		<Element name="ca_wheat.tex" u1="0.126" u2="0.249" v2="0.499" v1="0.376" variant="" />
+		<Element name="ca_wheat_cooked.tex" u1="0.251" u2="0.374" v2="0.499" v1="0.376" variant="" />
+		<Element name="ca_wheat_seeds.tex" u1="0.376" u2="0.499" v2="0.499" v1="0.376" variant="" />
+	</Elements>
+</Atlas>

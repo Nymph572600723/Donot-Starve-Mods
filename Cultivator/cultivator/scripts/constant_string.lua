@@ -1,0 +1,1 @@
+STRINGS.ACTIONS.TILL = "耕地"
